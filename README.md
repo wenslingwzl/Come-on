@@ -6,7 +6,7 @@
 
    解决方案
    
-    原始.vim文件备份 *mv .vim    .vim_backup*
+                       原始.vim文件备份 *mv .vim    .vim_backup*
                        
                        拷贝vim文件(网上或者别人转载的)到home路径下 *mv Downloads/vim   .vim*
                        
