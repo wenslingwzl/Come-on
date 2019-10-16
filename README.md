@@ -4,9 +4,11 @@
 
 1.vim安装及其环境配置
 遇到问题:
-* *startify: Can't read viminfo file. Read :help startify-faq-02*
+* *startify: Can't read viminfo file. Read :help startify-faq-02?*
 
-   解决方案: 原始.vim文件备份 *mv .vim    .vim_backup*;
+   解决方案: 
+   
+                        原始.vim文件备份 *mv .vim    .vim_backup*
                        
                        拷贝vim文件(网上或者别人转载的)到home路径下 *mv Downloads/vim   .vim*
                        
