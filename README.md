@@ -4,7 +4,7 @@
 遇到问题:
 * *startify: Can't read viminfo file. Read :help startify-faq-02?*
 
-   解决方案: 
+   解决方案
    
                         原始.vim文件备份 * mv .vim    .vim_backup *
                        
