@@ -1,4 +1,4 @@
-# neo4j或mac安装后的遇到问题及解决方案
+# ubuntu或mac安装neo4j后的遇到问题及解决方案
 
   1. Ubuntu neo4j忘记登陆密码？
   
