@@ -1,7 +1,7 @@
-# New journey - 文档规范化管理过程记录
+# vim安装及其环境配置
 
-1.vim安装及其环境配置
 遇到问题:
+
 * *startify: Can't read viminfo file. Read :help startify-faq-02?*
 
    解决方案
