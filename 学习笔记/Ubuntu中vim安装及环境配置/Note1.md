@@ -8,7 +8,7 @@
    
                        原始.vim文件备份  mv .vim    .vim_backup
                        
-                       拷贝vim文件(网上或者别人转载的)到home路径下  mv Downloads/vim   .vim
+                       拷贝vim文件(网上或者别人转载的这里scp -r xxx@123.123.0.123:~/.vim Downloads/vim)到home路径下  mv Downloads/vim   .vim
                        
                        (note:看vim支持python的版本, 这里是python3)
                        
