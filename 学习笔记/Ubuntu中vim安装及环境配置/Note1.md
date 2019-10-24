@@ -15,3 +15,13 @@
              cd 到 *.vim/plugged/YouCompleteMe 路径下,运行*./install.py --clang-completer
                        
              问题解决!!!!
+             
+* *vim出现无法写入，已设定选项‘buftype’*
+
+   解决方案
+   
+            ！！没有弄明白：网上说修改buftype的方法：
+            
+            vim切换至ex模式，输入 :setlocal buftype= （为空时）才能写入———尝试无效果
+            
+            关闭窗口重新打开----能够写入？？
