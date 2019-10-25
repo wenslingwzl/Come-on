@@ -1,11 +1,18 @@
-# config.yml
-    
-    
 # munch库的作用
 
   +  from munch import munchify
 
        +  作用：python convert dict to object like javascript
+       
+       + 参考网址：https://github.com/Infinidat/munch
+
+# config.yml
+    
+ + 1.obj.toDict()
+ 
+ + 2.obj.toJson()
+ 
+ + 3.obj.toYaml()
 
 
 # json
