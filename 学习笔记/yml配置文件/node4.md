@@ -10,9 +10,9 @@
     
  + 1.obj.toDict()
  
- + 2.obj.toJson()
+ + 2.obj.toJSON()
  
- + 3.obj.toYaml()
+ + 3.obj.toYAML：：()
  
  + 程序中应用---导入：xx = yaml.safe_load(file)
  
