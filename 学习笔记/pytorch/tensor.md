@@ -35,12 +35,12 @@
               
 # 运行代码时出现 No module named 'torch_scatter'？
 
-    +  pip install --verbose --no-cache-dir torch-scatter
+ +  pip install --verbose --no-cache-dir torch-scatter
     
-    + pip install --verbose --no-cache-dir torch-sparse
+ + pip install --verbose --no-cache-dir torch-sparse
     
-    + pip install --verbose --no-cache-dir torch-cluster
+ + pip install --verbose --no-cache-dir torch-cluster
     
-    + + pip install torch-geometric
+  +  pip install torch-geometric
     
-    + 具体参考：https://github.com/rusty1s/pytorch_geometric   中Installation部分的介绍。
+  + 具体参考：https://github.com/rusty1s/pytorch_geometric   中Installation部分的介绍。
