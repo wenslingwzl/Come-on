@@ -13,5 +13,7 @@
 
                 或者 export PATH=$ANDROID_HOME/tools:$PATH
 
-# 
+# conda创建虚拟环境
+
+    
                 
