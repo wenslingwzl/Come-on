@@ -27,6 +27,9 @@
   
   * source deactivate env_name
   
+# MAC中Python如何通过pip将packages安装到Conda环境中?
+   
+  * source到创建的虚拟环境中conda install pip ，它会将pip安装到虚拟环境目录中，之后pip install package_name即可。
   
    
 
