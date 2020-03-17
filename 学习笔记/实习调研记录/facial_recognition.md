@@ -8,4 +8,4 @@
 
 * 全民共创的丰富效果展现，如镜像效果、背景分割效果、换头效果、背景切换+美妆效果等，激发用户自发创作。
 
-   ![phone](https://github.com/wenslingwzl/Come-on/学习笔记/实习调研记录/picture/丰富效果.png)
+   ![phone](学习笔记/实习调研记录/picture/丰富效果.png)
