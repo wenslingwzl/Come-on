@@ -14,3 +14,5 @@
 
 * 趣味表情包制作与应用
 
+   ![phone](https://github.com/wenslingwzl/Come-on/blob/master/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/%E5%AE%9E%E4%B9%A0%E8%B0%83%E7%A0%94%E8%AE%B0%E5%BD%95/picture/%E8%B6%A3%E5%91%B3%E8%A1%A8%E6%83%85.png)
+
