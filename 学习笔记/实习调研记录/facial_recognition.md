@@ -6,4 +6,6 @@
 
 * MoviePy+make_frame函数绘制gif动画
 
-* 切换动画展示
+* * 全民共创的丰富效果展现，如镜像效果、背景分割效果、换头效果、背景切换+美妆效果等，激发用户自发创作。
+
+   ![phone](/Users/wensling/Documents/丰富效果)
